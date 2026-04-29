@@ -1,0 +1,14 @@
+{
+  "crop": "rice",
+  "trained_at": "2026-04-22T10:24:58.787237Z",
+  "window_size": 30,
+  "feature_name": "price",
+  "model_path": "artifacts\\rice\\lstm_model.h5",
+  "scaler_path": "artifacts\\rice\\scaler.joblib",
+  "plot_path": "artifacts\\rice\\actual_vs_predicted.png",
+  "metrics": {
+    "rmse": 33.3986,
+    "mae": 26.1288
+  },
+  "dataset_size": 400
+}
