@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+dist/
+build/
+*.egg-info/
+
+# Node / React
+node_modules/
+dist/
+build/
+.parcel-cache/
+.next/
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
